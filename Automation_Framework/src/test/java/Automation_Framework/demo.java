@@ -12,6 +12,8 @@ public class demo {
 		int c=a+b;
 		System.out.println(c);
 		System.out.println("Udhay");
-		}
+
+	}
+
 
 }
