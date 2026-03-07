@@ -13,10 +13,9 @@ public class demo {
 		System.out.println(c);
 
 		System.out.println("Asiwarya");
-
 		System.out.println("Udhay");
-		
-		System.out.print("Arun");
+		System.out.println("Aiyan");
+		System.out.println("Udhisya");
 
 	}
 
