@@ -1,1 +1,12 @@
 I am going to upload maven project
+This project to implement the Continous Integeration check
+we have created a pipeline job in jenkins and updated the pipeline script to checkout main and trigger the pipeline whenever it finds the changes in master branch
+once the test execution is completed
+it will trigger an alert to slack about the status of the job
+Tools Used
+NGROK for public hosting
+Once after the hosting is done
+GoTo Github and move to webhooks 
+here you will enter the ngrok web Url 
+https://innovational-richelle-physoclistous.ngrok-free.dev/github-webhook/ and save the hooks
+Then when we merge the branch you can see the pipeline status
